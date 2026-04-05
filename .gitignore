@@ -1,0 +1,28 @@
+# Compiled output
+*.o
+*.out
+*.a
+*.so
+*.exe
+
+# Build directories
+build/
+bin/
+obj/
+
+# CMake artifacts
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Editor and OS artifacts
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.orig
